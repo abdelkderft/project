@@ -9,5 +9,5 @@
 import './styles/app.css';
 
 // start the Stimulus applicaation
-// start the Stimulus applicaation
+// master
 import './bootstrap';
